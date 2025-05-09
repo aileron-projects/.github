@@ -1,7 +1,8 @@
 # Logos and Icons
 
-AILERON Projects logo sets.
-SVG images under this directory are in [Inkscape svg](https://inkscape.org/) formats.
+AILERON Projects logos and icons.
+
+SVG images are in [Inkscape svg](https://inkscape.org/) formats.
 
 ## Trademarks
 
@@ -9,7 +10,6 @@ AILERON Projects Trademarks are registered in Japan.
 
 - [JP-2023-094167](https://www.j-platpat.inpit.go.jp/c1801/TR/JP-2023-094167/40/en)
 - [JP-2023-094168](https://www.j-platpat.inpit.go.jp/c1801/TR/JP-2023-094168/40/en)
-
 
 ## Brand colors
 
