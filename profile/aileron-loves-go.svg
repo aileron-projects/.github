@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="144.72523mm"
-   height="30mm"
-   viewBox="0 0 144.72523 30"
+   width="72.362617mm"
+   height="15mm"
+   viewBox="0 0 72.362615 15"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.8519968"
-     inkscape:cx="157.08292"
-     inkscape:cy="47.159941"
+     inkscape:zoom="8.0666651"
+     inkscape:cx="128.30581"
+     inkscape:cy="38.119842"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
@@ -75,7 +75,7 @@
        x2="-43.126656"
        y2="143.66483" /></defs><g
      id="layer1"
-     transform="matrix(0.503937,0,0,0.503937,-35.767052,-57.957362)"><g
+     transform="matrix(0.2519685,0,0,0.2519685,-17.883526,-28.978681)"><g
        id="g48146"
        transform="translate(138.90172,39.00313)"><circle
          style="mix-blend-mode:normal;fill:url(#radialGradient48121);fill-opacity:1;stroke:#00196e;stroke-width:1.98391;stroke-dasharray:none;stroke-opacity:1"
@@ -107,7 +107,7 @@
 	.st5{fill:#FFFFFF;}
 </style><g
      id="g14"
-     transform="matrix(0.39095932,0,0,0.39095932,54.770283,-30.442311)">
+     transform="matrix(0.19547966,0,0,0.19547966,27.385141,-15.221155)">
 	<g
    id="g3">
 		<g
@@ -172,12 +172,12 @@
 	</g>
 </g><text
      xml:space="preserve"
-     style="font-style:italic;font-size:16.9333px;font-family:'Monotype Corsiva';-inkscape-font-specification:'Monotype Corsiva Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#dc231e;fill-opacity:1;stroke-width:0.264583"
-     x="39.944839"
-     y="22.604773"
+     style="font-style:italic;font-size:8.46667px;font-family:'Monotype Corsiva';-inkscape-font-specification:'Monotype Corsiva Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#dc231e;fill-opacity:1;stroke-width:0.264583"
+     x="19.97241"
+     y="10.351789"
      id="text1"><tspan
        sodipodi:role="line"
        id="tspan1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:HGPSoeiKakupoptai;-inkscape-font-specification:'HGPSoeiKakupoptai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#dc231e;fill-opacity:1;stroke-width:0.264583"
-       x="39.944839"
-       y="22.604773">♥</tspan></text></svg>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:HGPSoeiKakupoptai;-inkscape-font-specification:'HGPSoeiKakupoptai, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#dc231e;fill-opacity:1;stroke-width:0.264583"
+       x="19.97241"
+       y="10.351789">♥</tspan></text></svg>
