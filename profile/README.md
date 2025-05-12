@@ -7,7 +7,7 @@
 </div>
 
 > [!NOTE]
-> **AILERON Projects — Go web framework for cloud-native enterprise systems.**
+> **AILERON Projects — Go framework for cloud-native enterprise systems.**
 
 AILERON Projects leverages [Go](https://go.dev/).
 
