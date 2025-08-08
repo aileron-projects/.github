@@ -34,7 +34,6 @@ block-beta
   block:core:3
     go["Std package extensions</br><a href="https://github.com/aileron-projects/go">go</a>"]
     aileron["Framework core</br><a href="https://github.com/aileron-projects/aileron">aileron</a>"]
-    space
   end
 
   Documentation
