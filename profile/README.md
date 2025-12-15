@@ -4,14 +4,9 @@
 
 # :tada: Welcome to the AILERON Projects Community :tada:
 
+**AILERON Projects — Go framework for cloud-native enterprise systems.**
+
 </div>
-
-> [!NOTE]
-> **AILERON Projects — Go framework for cloud-native enterprise systems.**
-
-AILERON Projects leverages [Go](https://go.dev/).
-
-![aileron-loves-go.svg](./aileron-loves-go.svg)
 
 ## Documentations
 
@@ -19,30 +14,17 @@ AILERON Projects leverages [Go](https://go.dev/).
 
 ## Repositories
 
-```mermaid
-block-beta
-  columns 4
+**Core Projects**
 
-  Extensions["Extensions"]
-  block:lib:3
-    observability["<a href="https://github.com/aileron-projects/aileron-observability">Observability</a>"]
-    security["AuthnN/AuthZ</br><a href="https://github.com/aileron-projects/aileron-security">Security</a>"]
-    space:2
-  end
+- [go](https://github.com/aileron-projects/go): Go standard package extensions.
+- [aileron](https://github.com/aileron-projects/aileron): Framework core.
+- [aileron-projects.github.io](https://github.com/aileron-projects/aileron-projects.github.io): Website.
 
-  Cores["Core Projects"]
-  block:core:3
-    go["Std package extensions</br><a href="https://github.com/aileron-projects/go">go</a>"]
-    aileron["Framework core</br><a href="https://github.com/aileron-projects/aileron">aileron</a>"]
-  end
+**High Level Projects**
 
-  Documentation
-  block:docs:3
-    github["Org profile</br><a href="https://github.com/aileron-projects/.github">.github</a>"]
-    githubio["Website</br><a href="https://github.com/aileron-projects/aileron-projects.github.io">aileron-projects.github.io</a>"]
-  end
+- [aileron-observability](https://github.com/aileron-projects/aileron-observability)
+- [aileron-security](https://github.com/aileron-projects/aileron-security)
 
-style Documentation fill:transparent,stroke:none
-style Cores fill:transparent,stroke:none
-style Extensions fill:transparent,stroke:none
-```
+**Others**
+
+- [.github](https://github.com/aileron-projects/.github): organization profile.

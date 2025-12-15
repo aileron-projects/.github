@@ -1,5 +1,5 @@
 # Handle line endings automatically for text files.
-* text=auto
+* text=auto eol=lf
 
 # Specify file types and line endings.
 *.gitattributes text eol=lf
