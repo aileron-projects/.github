@@ -28,3 +28,4 @@
 **Others**
 
 - [.github](https://github.com/aileron-projects/.github): organization profile.
+- [_scripts](https://github.com/aileron-projects/_scripts): Common scripts used by Go projects.
