@@ -4,7 +4,7 @@
 
 # :tada: Welcome to the AILERON Projects Community :tada:
 
-**AILERON Projects — Go framework for enterprise systems.**
+**AILERON Projects — Go framework and libraries for enterprise systems.**
 
 </div>
 
@@ -25,3 +25,9 @@ TBD
 | [go-debugger](https://github.com/aileron-projects/go-debugger) | Go debugging utilities. |
 | [go-errkit](https://github.com/aileron-projects/go-errkit) | Go library for errors and exceptions. |
 | [go-tester](https://github.com/aileron-projects/go-tester) | Go library for testing go codes. |
+
+## Brand Resources
+
+- Logos: [logos/](../logos/)
+- Wallpapers: [wallpapers/](../wallpapers/)
+- QR Codes: [qr-codes/](../qr-codes/)
