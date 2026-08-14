@@ -10,10 +10,18 @@
 
 ## Projects
 
-**Core Projects**
+**Framework Core:**
 
-**Go Libraries**
+TBD
 
-| Project | Documentation | Description |
-| :--- | :---: | :--- |
-| [go-tester](https://github.com/aileron-projects/go-debug) | [GoDoc](https://pkg.go.dev/github.com/aileron-projects/go-tester) | Testing helper and utilities. |
+**Standalone Libraries:**
+
+| Project | Description |
+| :--- | :--- |
+| [go-xmljson](https://github.com/aileron-projects/go-xmljson) | XML and JSON conversion library for Go. |
+| [go-fastmatch](https://github.com/aileron-projects/go-fastmatch) | Simple and fast text pattern matching library for Go. |
+| [go-env](https://github.com/aileron-projects/go-env) | Go library for dealing with environmental variables. |
+| [go-textemplate](https://github.com/aileron-projects/go-textemplate) | Simple and fast text template engine for Go. |
+| [go-debugger](https://github.com/aileron-projects/go-debugger) | Go debugging utilities. |
+| [go-errkit](https://github.com/aileron-projects/go-errkit) | Go library for errors and exceptions. |
+| [go-tester](https://github.com/aileron-projects/go-tester) | Go library for testing go codes. |
