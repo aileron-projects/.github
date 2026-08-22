@@ -18,6 +18,7 @@ TBD
 
 | Project | Description |
 | :--- | :--- |
+| [go-loadbalancer](https://github.com/aileron-projects/go-loadbalancer) | Fast and robust load balancers for Go. |
 | [go-cron](https://github.com/aileron-projects/go-cron) | Cron jobs scheduler and executer for Go. |
 | [go-xmljson](https://github.com/aileron-projects/go-xmljson) | XML and JSON conversion library for Go. |
 | [go-fastmatch](https://github.com/aileron-projects/go-fastmatch) | Simple and fast text pattern matching library for Go. |
