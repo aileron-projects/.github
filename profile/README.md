@@ -18,6 +18,7 @@ TBD
 
 | Project | Description |
 | :--- | :--- |
+| [go-backoff](https://github.com/aileron-projects/go-backoff) | Backoff algorithm implementations for Go. |
 | [go-loadbalancer](https://github.com/aileron-projects/go-loadbalancer) | Fast and robust load balancers for Go. |
 | [go-cron](https://github.com/aileron-projects/go-cron) | Cron jobs scheduler and executer for Go. |
 | [go-xmljson](https://github.com/aileron-projects/go-xmljson) | XML and JSON conversion library for Go. |
