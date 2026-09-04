@@ -18,6 +18,7 @@ TBD
 
 | Project | Description |
 | :--- | :--- |
+| [go-httpproxy](https://github.com/aileron-projects/go-httpproxy) | Flexible and powerful http proxy library for Go. |
 | [go-ratelimit](https://github.com/aileron-projects/go-ratelimit) | Rate limiting library with various algorithms for Go. |
 | [go-backoff](https://github.com/aileron-projects/go-backoff) | Backoff algorithm implementations for Go. |
 | [go-loadbalancer](https://github.com/aileron-projects/go-loadbalancer) | Fast and robust load balancers for Go. |
