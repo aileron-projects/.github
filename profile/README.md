@@ -18,6 +18,7 @@ TBD
 
 | Project | Description |
 | :--- | :--- |
+| [go-middleware](https://github.com/aileron-projects/go-middleware) | Server-side and client-side middleware chaining library for Go. |
 | [go-sockopts](https://github.com/aileron-projects/go-sockopts) | Use network socket options easily on Go. |
 | [go-httpproxy](https://github.com/aileron-projects/go-httpproxy) | Flexible and powerful http proxy library for Go. |
 | [go-ratelimit](https://github.com/aileron-projects/go-ratelimit) | Rate limiting library with various algorithms for Go. |
