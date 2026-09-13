@@ -18,6 +18,7 @@ TBD
 
 | Project | Description |
 | :--- | :--- |
+| [go-ipfilter](https://github.com/aileron-projects/go-ipfilter) | IP whitelist, blacklist and net.Listener wrappers for Go. |
 | [go-middleware](https://github.com/aileron-projects/go-middleware) | Server-side and client-side middleware chaining library for Go. |
 | [go-sockopts](https://github.com/aileron-projects/go-sockopts) | Use network socket options easily on Go. |
 | [go-httpproxy](https://github.com/aileron-projects/go-httpproxy) | Flexible and powerful http proxy library for Go. |
