@@ -18,6 +18,7 @@ TBD
 
 | Project | Description |
 | :--- | :--- |
+| [go-logicalfile](https://github.com/aileron-projects/go-logicalfile) | A logical file library that abstracts away physical file management for Go. |
 | [go-l4proxy](https://github.com/aileron-projects/go-l4proxy) | Layer4, TCP and UDP, proxy servers and library for Go. |
 | [go-ipfilter](https://github.com/aileron-projects/go-ipfilter) | IP whitelist, blacklist and net.Listener wrappers for Go. |
 | [go-middleware](https://github.com/aileron-projects/go-middleware) | Server-side and client-side middleware chaining library for Go. |
