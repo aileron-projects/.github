@@ -2,8 +2,6 @@
 
 ![AILERON Projects Logo](../logos/logo-light-aileron-projects.svg)
 
-# :tada: Welcome to the AILERON Projects Community :tada:
-
 **AILERON Projects — Go framework and libraries for enterprise systems.**
 
 </div>
