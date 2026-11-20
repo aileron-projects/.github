@@ -16,6 +16,7 @@ TBD
 
 | Project | Description |
 | :--- | :--- |
+| [go-properties](https://github.com/aileron-projects/go-properties) | Loading property files for Go. |
 | [go-logicalfile](https://github.com/aileron-projects/go-logicalfile) | A logical file library that abstracts away physical file management for Go. |
 | [go-l4proxy](https://github.com/aileron-projects/go-l4proxy) | Layer4, TCP and UDP, proxy servers and library for Go. |
 | [go-ipfilter](https://github.com/aileron-projects/go-ipfilter) | IP whitelist, blacklist and net.Listener wrappers for Go. |
